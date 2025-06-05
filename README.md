@@ -64,7 +64,7 @@ The system follows a modular architecture with the following components:
 - **HTML/CSS** - Styling and layout
 - **JavaScript** - Frontend logic
 
-### Machine Learning
+### Deep Learning
 - **PyTorch** - Neural network implementation
 - **NLTK** - Text preprocessing
 - **Scikit-learn** - Model evaluation
