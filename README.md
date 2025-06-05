@@ -1,6 +1,6 @@
 # Fake Job Posting Detection System
 
-A comprehensive AI-powered system to detect fraudulent job postings using machine learning and deep learning techniques. The system combines web scraping, natural language processing, and a bidirectional LSTM neural network to identify suspicious job postings with high accuracy.
+A comprehensive AI-powered system to detect fraudulent job postings using deep learning techniques. The system combines web scraping, natural language processing, and a bidirectional LSTM neural network to identify suspicious job postings with high accuracy.
 
 ![Screenshot_2025-06-05_10-54-01](https://github.com/user-attachments/assets/c1b51707-dee4-4657-b091-4307d6910e3d)
 
